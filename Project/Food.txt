@@ -1,0 +1,65 @@
+Menu :ข้าวผัดหมู 
+Amount :Generic, 1 จาน 
+Nutrition :Calories: 550Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-45164572 
+
+Menu :ข้าวผัดหมู 
+Amount :Ezygo, 210 gram 
+Nutrition :Calories: 410Carbs: 59gFat: 14gProtein: 13g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-1021810687 
+
+Menu :ข้าวผัดหมูนุ่ม 
+Amount :Ezygo, 1 กล่อง 
+Nutrition :Calories: 480Carbs: 78gFat: 13gProtein: 13g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-1101332390 
+
+Menu :ข้าวผัดหมู 
+Amount :Family mart, 1 กล่อง 
+Nutrition :Calories: 390Carbs: 55gFat: 14gProtein: 11g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-789301285 
+
+Menu :ข้าวผัดหมูกะปิ 
+Amount :Family, 1 ถาด 
+Nutrition :Calories: 290Carbs: 54gFat: 3.5gProtein: 10g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%B0%E0%B8%9B%E0%B8%B4-802275923 
+
+Menu :ข้าวผัดหมูใส่ไข่ 
+Amount :Zumo, 1 จาน 
+Nutrition :Calories: 557Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-44459637 
+
+Menu :ข้าวผัดหมูใส่ไข่ 
+Amount :Generic, 1 จาน 
+Nutrition :Calories: 660Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-326203428 
+
+Menu :ข้าวผัดหมูใส่ไข่ 
+Amount :Rice, 1 dish 
+Nutrition :Calories: 557Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-37331493 
+
+Menu :อิ่มคุ้ม ข้าวผัดหมู 
+Amount :Ezygo, 300 gram 
+Nutrition :Calories: 600Carbs: 91gFat: 19gProtein: 17g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-1213022973 
+
+Menu :ข้าวผัดหมูใส่ไข่ 
+Amount :Thai, 1 cup cooked 
+Nutrition :Calories: 557Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-50230385 
+
+Menu :ข้าวผัดหมูใส่ไข่ 
+Amount :Thai Food, 1 portion 
+Nutrition :Calories: 660Carbs: 0gFat: 0gProtein: 0g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-2814599 
+
+Menu :อน. - ข้าวผัดหมู, ใส่ไข่ Fried Rice With Pork and Egg 
+Amount :Generic, 100 g 
+Nutrition :Calories: 178Carbs: 20.7gFat: 8.4gProtein: 4.8g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%AD%E0%B8%99-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88-fried-rice-with-pork-and-egg-206507568 
+
+Menu :ข้าวผัดหมู-ข้าวบุก ( Keto ) 
+Amount :Raan Gru (ร้านกรู), 1 Serving 
+Nutrition :Calories: 227Carbs: 5gFat: 10gProtein: 30g 
+More info :https://www.myfitnesspal.com/food/calories/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%81-keto-820580664 
+
