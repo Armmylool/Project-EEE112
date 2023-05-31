@@ -1,2 +1,0 @@
-Name,Grade Subject 1:Grade Subject 2,Grade Subject 3
-D:A,F,D
