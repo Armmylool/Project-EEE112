@@ -1,7 +1,7 @@
 # Project-EEE112
 This project is part of EEE112.
 
-test2.py is a UI of this project.
+test2.py is an UI of this project.
 
 Choose the cookcare class.py this is a complete python code.(Dont have an UI).
 
