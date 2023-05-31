@@ -17,3 +17,4 @@ Food.txt from web scraping.
 
 calories_data.txt from api exercise.
 
+Thank you for visiting.
