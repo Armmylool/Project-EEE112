@@ -8,7 +8,7 @@ import tkinter.messagebox
 
 root = Tk()
 root.title("Smart Healthy Application")
-root.config(bg="salmon")
+root.config(bg="#EB1C24")
 
 leftframe = Frame(root,width=400,height=200,bg='white')
 leftframe.place(x=19,y=55)
@@ -99,7 +99,7 @@ def caloriesin1day() :
     calories1day.title("Smart Healthy Application")
     calories1day.geometry("825x400+600+200")
     calories1day.resizable(False,False)
-    calories1day.config(bg='salmon')
+    calories1day.config(bg='#EB1C24')
 
     leftframeofcalories1day  = Frame(calories1day,width=350,height=290,bg='white')
     leftframeofcalories1day .place(x=50,y=50)
@@ -252,7 +252,7 @@ def get_incaloriesperladle() :
     caloriesperladle.title("Smart Healthy Application")
     caloriesperladle.geometry("825x400+600+200")
     caloriesperladle.resizable(False,False)
-    caloriesperladle.config(bg='salmon')
+    caloriesperladle.config(bg='#EB1C24')
 
 
 
